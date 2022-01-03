@@ -54,3 +54,18 @@ var countChange = function(money, coins) {
   return count;
 }
 ```
+
+# Experience
+
+* **SBI "Infrastructure center of e-Government" (aug 2013 – jun 2016)**
+* **Joint Stock Company Euro-Asian Trading-Industrial Bank(jun 2016 – feb 2020)**
+* **Digital performance agency Webmechanic(feb 2020 - )**
+
+# Education
+
+* **Astrakhan State Technical University**
+    * Computing machines, complexes, systems and networks, engineer degree.
+# Languages
+
+- Russian - Native
+- English - A2 English (Pre-Intermediate) active study
