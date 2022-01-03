@@ -1,2 +1,2 @@
 # rsschool-cv
-CV#1. Markdown &amp; Git
+https://voidstone.github.io/rsschool-cv/cv
