@@ -65,6 +65,8 @@ var countChange = function(money, coins) {
 
 * **Astrakhan State Technical University**
     * Computing machines, complexes, systems and networks, engineer degree.
+
+
 # Languages
 
 - Russian - Native
